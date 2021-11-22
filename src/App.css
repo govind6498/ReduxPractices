@@ -1,0 +1,21 @@
+body {
+  background-color: #282c34;
+  color: burlywood;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+.quantity_minus{
+background-color: darkblue;
+padding: 10px;
+}
+.quantity_plus{
+  background-color: darkblue;
+  padding: 10px;
+}
+.quantity_input{
+  padding: 10px;
+  width: 15px;
+  align-items: center;
+}
